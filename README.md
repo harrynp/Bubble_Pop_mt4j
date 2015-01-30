@@ -1,2 +1,2 @@
-# Inf133_mt4j
+# Bubble_Pop_mt4j
 Multitouch for Java assigment for Inf133
